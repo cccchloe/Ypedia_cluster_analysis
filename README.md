@@ -6,8 +6,9 @@ In this project, we will mainly concentrate on clustering customers from the YPe
 #	Step 1 : Handling Missing Data
 #	Step 2 : Exploratory Data Ananlysis and Feature Engineering
 
-#	Step 3 :   3.1   Find out Under-performing and Out-performing Marketing Channels.
-             3.2   Perform A/B Test on the Out-performing Channels. (to be finished)
+#	Step 3 :   
+3.1   Find out Under-performing and Out-performing Marketing Channels.
+3.2   Perform A/B Test on the Out-performing Channels. (to be finished)
 
 #	Step 4 : K-means Clustering:
 What is the optimal number of Clusters for this data?
