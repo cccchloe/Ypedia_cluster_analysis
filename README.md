@@ -1,4 +1,4 @@
-# Ypedia_cluster_analysis
+# C_cluster_analysis
 
 # Problem Statement:   
 In this project, we will mainly concentrate on clustering customers from the YPedia homepage search data, find out various insights and patterns of customer behavior and solve few business related queries.
